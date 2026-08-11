@@ -5120,7 +5120,7 @@
       "id": "f-中鉄バス",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://loc.bus-vision.jp/gtfs/chutetsu/gtfsFeed"
+        "static_current": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed"
       },
       "license": {
         "spdx_identifier": "CC-BY-4.0",
